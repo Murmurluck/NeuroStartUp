@@ -1,3 +1,6 @@
 ## Hello , world!
 
-здесь ничего нет 
+
+i study in Netology
+
+18.09.2025 
